@@ -1,0 +1,21 @@
+/* NAVBAR*/
+#logo {
+    color: #fed134;
+}
+#menu {
+    background: #212529;
+    display: flex;
+    justify-content: center;
+
+}
+.button-nav {
+    color: white;
+    margin-right: 20px;
+}
+.button-nav:hover  {
+    color: #fed134;
+    cursor: pointer;
+}
+.spacer {
+    flex: 1 1 auto;
+}
